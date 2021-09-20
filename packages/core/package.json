@@ -1,0 +1,11 @@
+{
+  "name": "@monorepo-test/core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "typings": "index.d.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -d"
+  },
+  "dependencies": {}
+}
